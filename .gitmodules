@@ -1,3 +1,6 @@
 [submodule "CIC-filter"]
 	path = CIC-filter
 	url = https://github.com/matejpolj/CIC-filter
+[submodule "Src/CIC-filter"]
+	path = Src/CIC-filter
+	url = https://github.com/matejpolj/CIC-filter
